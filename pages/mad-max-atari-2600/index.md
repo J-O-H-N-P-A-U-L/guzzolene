@@ -16,7 +16,7 @@ You were once an officer of the law but these creeps keep getting out and killin
 
 They ride on their motor cycles towards you , you must run them down but watch out for the trucks if you hit too many trucks your car is destroyed and it's game over for you!
 
-This is a work in progress right now I am working on.
+This is a work in progress right now. I am working on.
 
 It is looking pretty nice, although I wish I could do big sprites like in Activision's Grand Prix.
 
