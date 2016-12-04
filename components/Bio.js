@@ -22,7 +22,7 @@ class Bio extends React.Component {
             width: rhythm(2)
           }}
         />
-        Written by <strong>{config.authorName}</strong> who lives and works in Melbourne building useful things. <a href="http://www.johnpaulhunter.com/career-portfolio.html">You should check out his online portfolio</a>
+        Written by <strong>{config.authorName}</strong> who lives and works in Melbourne building useful things. <a href="http://www.johnpaulhunter.com">You should check out his online portfolio</a>
       </p>
     )
   }
