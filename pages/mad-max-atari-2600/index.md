@@ -35,3 +35,4 @@ I do have it down though it is not shaking nearly as much as when I first did it
 It is nearly done and turned out pretty good but I am going to need to spend a lot of time on the words in the game and get them to say something about Max.
 
 ![MAD MAX 2 for the Atari 2600](./mad-max-atari-2600.jpg)
+![MAD MAX 2 for the Atari 2600](./game1.gif)
