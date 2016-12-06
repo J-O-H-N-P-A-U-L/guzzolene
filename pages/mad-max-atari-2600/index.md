@@ -37,6 +37,6 @@ It is nearly done and turned out pretty good but I am going to need to spend a l
 ![MAD MAX 2 for the Atari 2600](./mad-max-atari-2600.jpg)
 ![MAD MAX 2 for the Atari 2600](./game1.gif)
 
-<iframe src="https://security-guard-broadcast-74123.netlify.com/release/index.html" width="666px" height="666px">
+<iframe src="https://security-guard-broadcast-74123.netlify.com/release/index.html" width="100%" height="666px">
   <p>Your browser does not support iframes.</p>
 </iframe>
