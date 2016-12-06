@@ -39,6 +39,6 @@ It is nearly done and turned out pretty good but I am going to need to spend a l
 
 
 
-  <iframe src="https://security-guard-broadcast-74123.netlify.com/release/index.html" frameborder="0" width="666px">
+  <iframe src="https://security-guard-broadcast-74123.netlify.com/release/index.html" frameborder="0" width="666px" height="666px">
       <p>Your browser does not support iframes.</p>
     </iframe>
