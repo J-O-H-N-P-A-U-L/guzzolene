@@ -38,10 +38,9 @@ It is nearly done and turned out pretty good but I am going to need to spend a l
 ![MAD MAX 2 for the Atari 2600](./game1.gif)
 
 
+   <div style="margin: 30px auto 0; min-height: 594px;">
+            <div id="javatari-screen" style="margin: 0 auto; box-shadow: 2px 2px 10px rgb(60, 60, 60);"></div>
+            <div id="javatari-console-panel" style="margin: 0 auto; box-shadow: 2px 2px 10px rgb(60, 60, 60);"></div>
+        </div>
 
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;">
-    <iframe src="https://security-guard-broadcast-74123.netlify.com/release/index.html" frameborder="0" style="position: absolute; top:30; left: ; width: 100%; height: 100%;">
-      <p>Your browser does not support iframes.</p>
-    </iframe>
-</div>
-
+   <script src="https://security-guard-broadcast-74123.netlify.com/release/javatari/javatari.js"></script>
