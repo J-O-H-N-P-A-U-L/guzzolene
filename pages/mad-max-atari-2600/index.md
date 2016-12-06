@@ -54,5 +54,5 @@ It is nearly done and turned out pretty good but I am going to need to spend a l
 
 
 
-<script src="hhttp://security-guard-broadcast-74123.netlify.com/release/javatari/javatari.js"></script>
+<script src="http://security-guard-broadcast-74123.netlify.com/release/javatari/javatari.js"></script>
 
