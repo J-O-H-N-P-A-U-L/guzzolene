@@ -39,8 +39,14 @@ It is nearly done and turned out pretty good but I am going to need to spend a l
 
 
 
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;">
-    <iframe src="https://security-guard-broadcast-74123.netlify.com/release/index.html" height="666" width="666" allowfullscreen="" frameborder="0" style="position: absolute; top:0; left: 0; width: 100%; height: 100%;">
+<div style="    position: relative;
+                  padding-bottom: 56.25%;
+                  padding-top: 35px;
+                  height: 0;
+                  overflow: hidden;">
+    <iframe width="666px" height="666px" src="https://security-guard-broadcast-74123.netlify.com/release/index.html" allowfullscreen="" frameborder="0" style="p  position: absolute;
+                                                                                                                                         top:0;
+                                                                                                                                         left: 0;width: 1000%;                                                                                                                                height: 100%;">
       <p>Your browser does not support iframes.</p>
     </iframe>
 </div>
