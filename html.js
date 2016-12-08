@@ -29,6 +29,10 @@ module.exports = React.createClass({
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
+          <meta
+              name="viewport"
+              content="user-scalable = yes"
+          />
           {head.title.toComponent()}
           {head.meta.toComponent()}
           <TypographyStyle typography={typography} />
