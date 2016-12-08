@@ -35,10 +35,13 @@ I do have it down though it is not shaking nearly as much as when I first did it
 It is nearly done and turned out pretty good but I am going to need to spend a lot of time on the words in the game and get them to say something about Max.
 
 
+
 ![MAD MAX 2 for the Atari 2600](./game1.gif)
 
+Play Mad Max for the Atari 2600 [here](https://security-guard-broadcast-74123.netlify.com/release/index.html "Mad Max Atari 2600") now!
 
 
-  <iframe src="https://security-guard-broadcast-74123.netlify.com/release/index.html" frameborder="0" width="100%" height="666px">
-      <p>Your browser does not support iframes.</p>
-    </iframe>
+
+    
+
+

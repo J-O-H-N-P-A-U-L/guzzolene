@@ -26,12 +26,8 @@ module.exports = React.createClass({
           <meta charSet="utf-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
-            name="viewport"
-            content="width=device-width, initial-scale=1.0"
-          />
-          <meta
               name="viewport"
-              content="user-scalable = yes"
+              content="width=device-width, initial-scale=1"
           />
           {head.title.toComponent()}
           {head.meta.toComponent()}
