@@ -8,35 +8,25 @@ price: 129.00
 path: "/atari-2600/"
 description: "MAD MAX for the Atari 2600"
 ---
-Hey everyone I just spent a few hours hacking this I call it Mad Max like the movie.
+Hey everyone check out this custom Mad Max Interceptor ROM for the Atari2600. 
 
-You are Mad Max driving in your black car after the creeps that ran over everyone you ever knew including your wife and baby daughter.
+You get to hoon around in the Mad Max Interceptor after a violent and merciless blur where the Toecutters ran down Max’s wife and infant child.
 
-You were once an officer of the law but these creeps keep getting out and killing more people you are out to stop them from ever harming anyone else you are the Road Warrior!
+Max was once an officer of the law but the Toecutters keep getting out and killing more people.  Now Max is out to stop them from ever harming anyone else, enter the the Road Warrior!
 
-They ride on their motor cycles towards you , you must run them down but watch out for the trucks if you hit too many trucks your car is destroyed and it's game over for you!
+They ride on their motor cycles towards you , you must run them down but watch out for the trucks if you hit too many trucks your car is destroyed and it’s game over for Max!
 
-This is a work in progress right now. I am working on.
+This is a work in progress right now.
 
-It is looking pretty nice, although I wish I could do big sprites like in Activision's Grand Prix.
+It is looking pretty nice, although I wish there were big sprites like in Activision’s Grand Prix.
 
-How they did that I don't know there is a limit 8 pixels wide for sprites.
+How they did that I don’t know there is a limit 8 pixels wide for sprites.
 
-But still I did make everything look pretty good I think, just smaller than what I would like to have made.
+Everything still looks pretty good I think.
 
-The trucks look cool!
+Oh yeah, The trucks look cool! 
 
-I need to find out how to get rid of some of the shaking of Max's car.
-
-It is hard since I am working against formerly 6 frames of animation so it can be any of those or all of those together.
-
-I do have it down though it is not shaking nearly as much as when I first did it, wow then it was blinking in different places that was bad!
-
-It is nearly done and turned out pretty good but I am going to need to spend a lot of time on the words in the game and get them to say something about Max.
-
-
-
-![MAD MAX 2 for the Atari 2600](./game1.gif)
+![MAD MAX for the Atari 2600](./game1.gif)
 
 Play Mad Max for the Atari 2600 [here](https://security-guard-broadcast-74123.netlify.com/release/index.html "Mad Max Atari 2600") now!
 
