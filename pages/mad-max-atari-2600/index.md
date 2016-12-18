@@ -26,11 +26,9 @@ Everything still looks pretty good I think.
 
 Oh yeah, The trucks look cool! 
 
-![MAD MAX for the Atari 2600](./mad_max_atari.jpg)
-![MAD MAX for the Atari 2600](./mad_max_atari_top.jpg)
 
 Play Mad Max for the Atari 2600 [here](https://security-guard-broadcast-74123.netlify.com/release/index.html "Mad Max Atari 2600") now!
-
+![MAD MAX for the Atari 2600](./mad_max_atari.jpg)
 
 
     
