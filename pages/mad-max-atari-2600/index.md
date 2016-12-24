@@ -28,7 +28,7 @@ Oh yeah, The trucks look cool!
 
 
 Play Mad Max for the Atari 2600 [here](https://security-guard-broadcast-74123.netlify.com/release/index.html?name=max "Mad Max Atari 2600") now!
-![MAD MAX for the Atari 2600](./MAD_MAX.jpg)
+![MAD MAX for the Atari 2600](./MAD_MAX.png)
 
 By the way, would you believe that Mario Bros was released for the Atari 2600 way back in 1983 even before there was any Nintendo Entertainment System?
 Check it out for youself using the link below!
