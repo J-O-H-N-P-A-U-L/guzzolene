@@ -61,3 +61,5 @@ For now, You can get yourself a copy of handy SDL here:
 https://github.com/mozzwald/handy-sdl
 
 Stay tuned for the forthcoming boilerplate and more info that I’ll post up as soon I put these together.
+
+![Screen Shot 2017-01-02 at 10.25.25 am.](./Screen Shot 2017-01-02 at 10.25.25 am.png)
