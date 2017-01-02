@@ -8,7 +8,7 @@ path: "/atari-lynx/"
 description: "Atari Lynx development on Mac OSX"
 ---
 
-Back when I was a kid in the early nineties, Dad bought me an Atari Lynx II. He told me at the time that he'd much rather I spent my time building computer games than waste it playing them.
+Back when I was a kid in the early nineties, Dad bought me an Atari Lynx II. He told me at the time that he'd much rather I spent my time building computer games than waste it simply playing them.
 
 Fast forward to 2017 and I just so happen to have an Atari Lynx II, so why not make Dad proud and program my own game onto it?  
 
