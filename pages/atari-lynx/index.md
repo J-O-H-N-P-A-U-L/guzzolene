@@ -12,11 +12,7 @@ Back when I was a kid in the early nineties, Dad bought me an Atari Lynx II. He 
 
 Fast forward to 2017 and I just so happen to have an Atari Lynx II, so why not make Dad proud and program my own game onto it?  
 
-On top of all that, the Atari Lynx device has an elegant retro look to it.
- 
-It's still powerful enough to run games quickly. 
-
-Sprites can be zoomed and rotated line by line allowing to make textured polygons, it has a four channel base of polynomial generators (or whatever the hell that means), and other things too..
+On top of all that, the Atari Lynx device has an elegant retro look to it. It's still powerful enough to run games quickly. Sprites can be zoomed and rotated line by line allowing to make textured polygons, it has a four channel base of polynomial generators (or whatever the hell that means), and other things too..
 
 After some research into this subject, I ofcourse found a distinct lack of information on getting an Atari lynx development environment up and running on Mac OSX.
 
