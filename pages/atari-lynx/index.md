@@ -8,9 +8,9 @@ path: "/atari-lynx/"
 description: "Atari Lynx development OSX"
 ---
 
-I just so happen to have an Atari Lynx II, so why not  program my own game onto it?  The device has an elegant retro look to it and is still powerful enough to allow to develop stuff quickly. Sprites can be zoomed and rotated line by line allowing to make textured polygons, its 4 channel base of polynomial generators, and some other nice gadgets. So here is a category of my site dedicated to my adventures with this console.
+I just so happen to have an Atari Lynx II, so why not program my own game onto it?  The device has an elegant retro look to it and is still powerful enough to allow to develop stuff quickly. Sprites can be zoomed and rotated line by line allowing to make textured polygons, its 4 channel base of polynomial generators, and some other nice gadgets. So here is a category of my site dedicated to my adventures with this console.
 
-Visual Studio Code with C++ complier:
+Visual Studio Code with C++ compiler:
 I have opted to use Visual Studio Code with C++ complier for my Atari Lynx IDE. You are welcome to use whatever you want, even a text editor will do the trick (personally, I don’t mind a nice IDE) C/C++ support for Visual Studio Code is provided today as a preview of Microsofts ambition to enable cross-platform C and C++ development using VS Code on Windows, Linux, and Mac. 
 
 Should you wish to use the same, this article will be enough too get you going:
@@ -43,7 +43,7 @@ export LD65_OBJ="/usr/local/lib/cc65/obj"<br />
 Now you will have an Atari Lynx game compiler that works on OSX
 
 <h2>Atari Lynx Boilerplate</h2>
-I'm working on converting a couple of open source Atari Lynx projects for use as boilerplates that I will post up here as soon as I have these available.
+I'm working on converting a couple of open source Atari Lynx projects for use as a boilerplate that I will post up here as soon as I have these available.
 The boilerplate will contain a complete project with makefile  to generate a .lnx file.  these will also become the base of my next project .
 
 Also I'm currently using Handy SDL as my emulator for my Atari Lynx ROMS. 
