@@ -22,7 +22,7 @@ Visual Studio Code with C++ compiler:
 I have opted to use Visual Studio Code with C++ complier for my Atari Lynx IDE. You are welcome to use whatever you want, even a text editor will do the trick (personally, I don’t mind a nice IDE) C/C++ support for Visual Studio Code is provided today as a preview of Microsofts ambition to enable cross-platform C and C++ development using VS Code on Windows, Linux, and Mac. 
 
 Should you wish to use the same, this article will be enough too get you going:
-https://code.visualstudio.com/docs/languages/cpp
+https://code.visualstudio.com/docs/languages/cpp 
 
 <h2>CC65</h2>
 Cc65 is a compiler for the 6502 which is the processor of the Lynx. It comes with basic libraries to do some tricks. These libraries are portable on several platforms (c64, NES, ...) but with a lot of limitations. They are far from exploiting the capabilities of the entire console. cc65 seems to be quite limited level optimisation of the C, you have to do everything manually to have effective code and I think I might have to learn the 6502 assembler to build more Serious things. 
