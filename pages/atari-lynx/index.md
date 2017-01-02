@@ -18,10 +18,10 @@ After some research into this subject from which, of course, I've uncovered a di
 
 So without further (or more) ado, I give you the method I have put together for setting up your development environment for Atari Lynx development on Mac OSX.
 
-Visual Studio Code with C++ compiler:
-I have opted to use Visual Studio Code with C++ complier for my Atari Lynx IDE. You are welcome to use whatever you want, even a text editor will do the trick (personally, I don’t mind a nice IDE) C/C++ support for Visual Studio Code is provided today as a preview of Microsofts ambition to enable cross-platform C and C++ development using VS Code on Windows, Linux, and Mac. 
+<h2>Visual Studio Code with C++ compiler:</h2>
+I have opted to use Visual Studio Code with C++ compiler for my Atari Lynx IDE. You are welcome to use whatever you want, even a text editor will do the trick (personally, I don’t mind a nice IDE) C/C++ support for Visual Studio Code is provided today as a preview of Microsoft's ambition to enable cross-platform C and C++ development using VS Code on Windows, Linux, and Mac. 
 
-Should you wish to use the same, this article will be enough too get you going:
+Should you wish to use the same, this article ought to be be enough too get you going:
 https://code.visualstudio.com/docs/languages/cpp 
 
 <h2>CC65</h2>
@@ -62,4 +62,3 @@ https://github.com/mozzwald/handy-sdl
 
 Stay tuned for the forthcoming boilerplate and more info that I’ll post up as soon I put these together.
 
-![Screen Shot 2017-01-02 at 10.25.25 am.](jp.png)
