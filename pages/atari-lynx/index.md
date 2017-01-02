@@ -16,9 +16,9 @@ On top of all that, the Atari Lynx device has an elegant retro look to it.
  
 It's still powerful enough to run games quickly. 
 
-Sprites can be zoomed and rotated line by line allowing to make textured polygons, it has a four channel base of polynomial generators (or whatever the hell that means), and some other nice gadgets.
+Sprites can be zoomed and rotated line by line allowing to make textured polygons, it has a four channel base of polynomial generators (or whatever the hell that means), and other things too..
 
-After some research into this subject, I ofcourse found a distinct lack of informtion on getting an Atari lynx development environment up and running on Mac OSX.
+After some research into this subject, I ofcourse found a distinct lack of information on getting an Atari lynx development environment up and running on Mac OSX.
 
 So without further (or more) ado, I give you the method I hav put together for setting up your development environment for Atari Lynx development on Mac OSX.
 
