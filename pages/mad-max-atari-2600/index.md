@@ -1,59 +1,45 @@
 ---
-title: Atari Lynx development OSX
+title: MAD MAX for the Atari 2600
 layout: post
 
 id: "1"
+image: "/mad-max-atari-2600.jpg"
 price: 129.00
 path: "/atari-2600/"
-description: "Atari Lynx development OSX"
+description: "MAD MAX for the Atari 2600"
 ---
-#Atari Lynx development OSX
+Hey everyone check out this custom Mad Max Interceptor ROM for the Atari2600. 
 
-I just so happen to have an Atari Lynx II, so why not  program my own game onto it?  The device has an elegant retro look to it and is still powerful enough to allow to develop stuff quickly. Sprites can be zoomed and rotated line by line allowing to make textured polygons, its 4 channel base of polynomial generators, and some other nice gadgets. So here is a category of my site dedicated to my adventures with this console.
+You get to hoon around in the Mad Max Interceptor after a violent and merciless blur where the Toecutters ran down Max’s wife and infant child.
 
-Visual Studio Code with C++ complier:
-I have opted to use Visual Studio Code with C++ complier for my Atari Lynx IDE. You are welcome to use whatever you want, even a text editor will do the trick (personally, I don’t mind a nice IDE) C/C++ support for Visual Studio Code is provided today as a preview of Microsofts ambition to enable cross-platform C and C++ development using VS Code on Windows, Linux, and Mac. 
+Max was once an officer of the law but the Toecutters keep getting out and killing more people.  Now Max is out to stop them from ever harming anyone else, enter the the Road Warrior!
 
-Should you wish to use the same, this article will be enough too get you going:
-https://code.visualstudio.com/docs/languages/cpp
+They ride on their motor cycles towards you , you must run them down but watch out for the trucks if you hit too many trucks your car is destroyed and it’s game over for Max!
 
-##CC65
-Cc65 is a compiler for the 6502 which is the processor of the Lynx. It comes with basic libraries to do some tricks. These libraries are portable on several platforms (c64, NES, ...) but with a lot of limits. They are far from exploiting the capabilities of the bottom console. So I'll probably write my own toolkit to handle everything. On the other hand cc65 seems to be quite limited level optimisation of the C, you have to do everything manually to have effective code AND i think I  will have to learn the 6502 assembler to build more Serious things. 
+This is a work in progress right now.
 
-I've uploaded the sources, tools and documentation for the CC65 2.13.9 SVN 5944 which is a known stable build up to my github account.
+It is looking pretty nice, although I wish there were big sprites like in Activision’s Grand Prix.
 
-Follow these steps to get rolling (just as closely as you can)
+How they did that I don’t know there is a limit 8 pixels wide for sprites.
 
-* download the latest version of cc65 git clone https://github.com/JPHUNTER/CC65-2.13.9-SVN-5944/blob/master/cc65-snapshot-sources-2.13.9.20121203.tar.bz2 
-* decompress the archive cc65-snapshot-sources-2.13.9.20121203.tar.bz2 
-* cd into cc65-snapshot-sources-2.13.9.20121203 so we can see what’s in the folder
-* Make -f make/gcc.mak # start compilation
-* Sudo make -f make/gcc.mak install # on installs!
-* Manually copy the built file “sp65” from /cc65-snapshot-2.13.9.20121203/src/sp65/ to /usr/local/bin/
-* next you will need to modify the shell path in OSX using terminal as per the following instructions:
-* cd  (Move into home directory)
-* nano .bash_profile (Create the .bash_profile file with a command line editor called nano)
-*	Add in the below lines which declare the new locations
+Everything still looks pretty good I think.
 
-export CC65_HOME="/usr/local/lib/cc65"<br />
-export CA65_INC="/usr/local/lib/cc65/assuming"<br />
-export CC65_INC="/usr/local/lib/cc65/cfg"<br />
-export LD65_CFG="/usr/local/lib/cc65/lib"<br />
-export LD65_OBJ="/usr/local/lib/cc65/obj"<br />
+Oh yeah, The trucks look cool! 
 
-Now you will have an Atari Lynx game compiler that works on OSX
 
-##Atari Lynx Boilerplates
-I'm working on converting a couple of open source Atari Lynx projects for use as boilerplates that I will post up here as soon as I have these available.
-The boilerplates will contain a complete project with makefile  to generate a .lnx file.  these will also become the base of my next project .
+Play Mad Max for the Atari 2600 [here](https://security-guard-broadcast-74123.netlify.com/release/index.html?name=max "Mad Max Atari 2600") now!
+![MAD MAX for the Atari 2600](./MAD_MAX.png)
 
-Also I'm currently using Handy SDL as my emulator for my Atari Lynx ROMS. 
-Its still a little problematic  with my experiments and I’m currently working through these 
-and plan to have everything running smoothly as my boilerplate comes together.  
-For now, You can get yourself a copy of handy SDL here:
-https://github.com/mozzwald/handy-sdl
+By the way, would you believe that Mario Bros was released for the Atari 2600 way back in 1983 even before there was any Nintendo Entertainment System?
+Check it out for youself using the link below!
 
-Stay tuned for the forthcoming boilerplate and more info that I’ll post up as soon I put these together.
+Play Mario Bros for the Atari 2600 [here](https://security-guard-broadcast-74123.netlify.com/release/index.html?name=mario "Mario Bros Atari 2600") now!
+![Mario Bros for the Atari 2600](./mario.jpg)
+
+
+    
+
+
 
     
 
