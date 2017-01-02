@@ -14,7 +14,7 @@ Fast forward to 2017 and I just so happen to have an Atari Lynx II, so why not m
 
 On top of all that, the Atari Lynx has an elegant retro look to it. It's still powerful enough to run games quickly. Sprites can be zoomed and rotated line by line allowing to make textured polygons, it has a four channel base of polynomial generators (or whatever the hell that means), and other things too..
 
-After some research into this subject, I ofcourse found a distinct lack of information on getting an Atari lynx development environment up and running on Mac OSX.
+After some research into this subject from which, of course, I've uncovered a distinct lack of information on getting an Atari lynx development environment up and running on Mac OSX.
 
 So without further (or more) ado, I give you the method I hav put together for setting up your development environment for Atari Lynx development on Mac OSX.
 
