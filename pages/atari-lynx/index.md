@@ -8,7 +8,7 @@ path: "/atari-lynx/"
 description: "Atari Lynx development on Mac OSX"
 ---
 
-I just so happen to have an Atari Lynx II, so why not program my own game onto it?  The device has an elegant retro look to it and is still powerful enough to allow to develop stuff quickly. Sprites can be zoomed and rotated line by line allowing to make textured polygons, its 4 channel base of polynomial generators, and some other nice gadgets. So here is a category of my site dedicated to my adventures with this console.
+I just so happen to have an Atari Lynx II, so why not program my own game onto it?  The device has an elegant retro look to it and is still powerful enough to allow to develop stuff quickly. Sprites can be zoomed and rotated line by line allowing to make textured polygons, its 4 channel base of polynomial generators, and some other nice gadgets.
 
 Visual Studio Code with C++ compiler:
 I have opted to use Visual Studio Code with C++ complier for my Atari Lynx IDE. You are welcome to use whatever you want, even a text editor will do the trick (personally, I don’t mind a nice IDE) C/C++ support for Visual Studio Code is provided today as a preview of Microsofts ambition to enable cross-platform C and C++ development using VS Code on Windows, Linux, and Mac. 
