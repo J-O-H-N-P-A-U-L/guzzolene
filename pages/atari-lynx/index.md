@@ -8,7 +8,19 @@ path: "/atari-lynx/"
 description: "Atari Lynx development on Mac OSX"
 ---
 
-I just so happen to have an Atari Lynx II, so why not program my own game onto it?  The device has an elegant retro look to it and is still powerful enough to allow to develop stuff quickly. Sprites can be zoomed and rotated line by line allowing to make textured polygons, its 4 channel base of polynomial generators, and some other nice gadgets.
+Back when I was a kid in the early nineties, Dad bought me an Atari Lynx II. He told me at the time that he'd much rather I spent my time building computer games, rather than play them.
+
+Fast forward to 2017 and I just so happen to have an Atari Lynx II, so why not make Dad proud and program my own game onto it?  
+
+On top of all that, the Atari Lynx device has an elegant retro look to it.
+ 
+It's still powerful enough to run games quickly. 
+
+Sprites can be zoomed and rotated line by line allowing to make textured polygons, it has a four channel base of polynomial generators (or whatever the hell that means), and some other nice gadgets.
+
+After some research into this subject, I ofcourse found a distinct lack of informtion on getting an Atari lynx development environment up and running on Mac OSX.
+
+So without further (or more) ado, I give you the method I hav put together for setting up your development environment for Atari Lynx development on Mac OSX.
 
 Visual Studio Code with C++ compiler:
 I have opted to use Visual Studio Code with C++ complier for my Atari Lynx IDE. You are welcome to use whatever you want, even a text editor will do the trick (personally, I don’t mind a nice IDE) C/C++ support for Visual Studio Code is provided today as a preview of Microsofts ambition to enable cross-platform C and C++ development using VS Code on Windows, Linux, and Mac. 
