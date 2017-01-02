@@ -1,11 +1,11 @@
 ---
-title: Atari Lynx development OSX
+title: Atari Lynx development on Mac OSX
 layout: post
 
 id: "2"
 price: 129.00
 path: "/atari-lynx/"
-description: "Atari Lynx development OSX"
+description: "Atari Lynx development on Mac OSX"
 ---
 
 I just so happen to have an Atari Lynx II, so why not program my own game onto it?  The device has an elegant retro look to it and is still powerful enough to allow to develop stuff quickly. Sprites can be zoomed and rotated line by line allowing to make textured polygons, its 4 channel base of polynomial generators, and some other nice gadgets. So here is a category of my site dedicated to my adventures with this console.
