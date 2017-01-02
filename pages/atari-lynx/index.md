@@ -16,7 +16,7 @@ On top of all that, the Atari Lynx has an elegant retro look to it. It's still p
 
 After some research into this subject from which, of course, I've uncovered a distinct lack of information on getting an Atari lynx development environment up and running on Mac OSX.
 
-So without further (or more) ado, I give you the method I hav put together for setting up your development environment for Atari Lynx development on Mac OSX.
+So without further (or more) ado, I give you the method I have put together for setting up your development environment for Atari Lynx development on Mac OSX.
 
 Visual Studio Code with C++ compiler:
 I have opted to use Visual Studio Code with C++ complier for my Atari Lynx IDE. You are welcome to use whatever you want, even a text editor will do the trick (personally, I don’t mind a nice IDE) C/C++ support for Visual Studio Code is provided today as a preview of Microsofts ambition to enable cross-platform C and C++ development using VS Code on Windows, Linux, and Mac. 
