@@ -2,9 +2,9 @@
 title: Atari Lynx development OSX
 layout: post
 
-id: "1"
+id: "2"
 price: 129.00
-path: "/atari-2600/"
+path: "/atari-lynx/"
 description: "Atari Lynx development OSX"
 ---
 #Atari Lynx development OSX
