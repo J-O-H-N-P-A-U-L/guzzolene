@@ -16,8 +16,7 @@ I have opted to use Visual Studio Code with C++ complier for my Atari Lynx IDE. 
 Should you wish to use the same, this article will be enough too get you going:
 https://code.visualstudio.com/docs/languages/cpp
 
-CC65
-
+<h2>CC65</h2>
 Cc65 is a compiler for the 6502 which is the processor of the Lynx. It comes with basic libraries to do some tricks. These libraries are portable on several platforms (c64, NES, ...) but with a lot of limits. They are far from exploiting the capabilities of the bottom console. So I'll probably write my own toolkit to handle everything. On the other hand cc65 seems to be quite limited level optimisation of the C, you have to do everything manually to have effective code AND i think I  will have to learn the 6502 assembler to build more Serious things. 
 
 I've uploaded the sources, tools and documentation for the CC65 2.13.9 SVN 5944 which is a known stable build up to my github account.
@@ -43,7 +42,7 @@ export LD65_OBJ="/usr/local/lib/cc65/obj"<br />
 
 Now you will have an Atari Lynx game compiler that works on OSX
 
-Atari Lynx Boilerplate
+<h2>Atari Lynx Boilerplate</h2>
 I'm working on converting a couple of open source Atari Lynx projects for use as boilerplates that I will post up here as soon as I have these available.
 The boilerplate will contain a complete project with makefile  to generate a .lnx file.  these will also become the base of my next project .
 
