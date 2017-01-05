@@ -4,7 +4,7 @@ layout: post
 
 id: "1"
 image: "/mad-max-atari-2600.jpg"
-price: 129.00
+price: 777
 path: "/atari-2600/"
 description: "MAD MAX for the Atari 2600"
 ---

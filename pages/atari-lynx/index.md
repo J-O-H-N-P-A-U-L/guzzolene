@@ -2,8 +2,8 @@
 title: Atari Lynx development on Mac OSX
 layout: post
 
-id: "2"
-price: 129.00
+id: "3"
+price: 777
 path: "/atari-lynx/"
 description: "Atari Lynx development on Mac OSX"
 ---
