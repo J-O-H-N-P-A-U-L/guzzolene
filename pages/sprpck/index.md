@@ -1,5 +1,5 @@
 ---
-title: ASprpck - The Atari Lynx Sprite Packer
+title: Sprpck - The Atari Lynx Sprite Packer
 layout: post
 
 id: "3"
@@ -22,6 +22,8 @@ Necessity being the mother of all  invention has forced my hand and I’ve forke
 
 This version was forked from Wookie who has adjusted its makefile to properly execute on Unix based systems.  I have again modified it to execute properly on arch Mac OSX 64bit.  
 
-Visit my github repo for more info.
+Visit my github repo to obtain and install:
+https://github.com/JPHUNTER/sprpck
+
 
 ![Live long and sprpck](./sprpck.jpg)
