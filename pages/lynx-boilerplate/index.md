@@ -2,9 +2,9 @@
 title: Atari Lynx Game Boilerplate
 layout: post
 
-id: "3"
+id: "4"
 price: 777
-path: "/sprpck/"
+path: "/lynx-boilerplate/"
 description: "Atari Lynx Game Boilerplate"
 ---
 

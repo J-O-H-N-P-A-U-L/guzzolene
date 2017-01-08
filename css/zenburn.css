@@ -164,6 +164,6 @@ code {
   height: 100%;
 }
 .snipcart-add-item{
-  display: none;
+  display: none !important;
 }
 
